@@ -7,7 +7,7 @@
 *An innovative web application that analyzes arguments and provides empathetic, unbiased resolution strategies*
 
 [![Live Demo](https://img.shields.io/badge/🌐_Live_Demo-blue?style=for-the-badge)](https://drive.google.com/file/d/1t92kd3tUV9hgE_J4tSQNjB1qwbiczWqq/view?usp=sharing)
-[![Download Report](https://img.shields.io/badge/📊_Project_Report-green?style=for-the-badge)](your-report-link)
+[![Download Report](https://img.shields.io/badge/📊_Project_Report-green?style=for-the-badge)](https://drive.google.com/file/d/17iRG928dDatPxSpnR-sEf22jStPPQWew/view?usp=sharing)
 [![License](https://img.shields.io/badge/License-MIT-yellow?style=for-the-badge)](LICENSE)
 
 Built with ❤️ by **Lohitha Kalipindi**
@@ -81,7 +81,7 @@ Upload your chat files for detailed analysis
 ### Installation
 
 1. **Clone the repository**
-   - Run: git clone https://github.com/yourusername/ai-argument-resolver.git
+   - Run: git clone https://github.com/Lohitha-Kalipindi/ai-powered-argument-resolver.git
    - Navigate to: cd ai-argument-resolver
 
 2. **Set up your environment**
@@ -130,12 +130,10 @@ Our testing shows impressive performance:
 - ⚡ **3-5 seconds** average response time
 - 🎯 **90% accuracy** in psychological analysis
 - 📱 **99% uptime** during testing phase
-- 👥 **50+ concurrent users** supported
-- ✅ **WCAG 2.1 AA** accessibility compliance
 
 ---
 
-## 🔮 Coming Soon
+## 🔮 Future Scope
 
 - 🌍 **Multi-language support** - Resolve conflicts in any language
 - 🎤 **Voice integration** - Speak your conflicts, get spoken solutions
@@ -145,25 +143,11 @@ Our testing shows impressive performance:
 
 ---
 
-## 🤝 Contributing
-
-We'd love your help making AI Argument Resolver even better! Here's how:
-
-1. 🍴 Fork the repository
-2. 🌿 Create your feature branch: git checkout -b feature/amazing-feature
-3. 💾 Commit your changes: git commit -m 'Add amazing feature'
-4. 🚀 Push to the branch: git push origin feature/amazing-feature
-5. 🔄 Open a Pull Request
-
-**Before contributing:** Please open an issue to discuss major changes. We appreciate all contributions, big or small! ✨
-
----
-
 ## 📧 Get in Touch
 
 Have questions? Found a bug? Want to collaborate? 
 
-- 📬 **Email:** [your.email@example.com](mailto:your.email@example.com)
+- 📬 **Email:** [kalipindilohitha@gmail.com](mailto:kalipindilohitha@gmail.com)
 - 🐛 **Issues:** Use GitHub Issues for bug reports
 - 💡 **Feature Requests:** We're always listening to user feedback!
 - 📄 **Full Project Report:** Available on request (completely free)
@@ -191,6 +175,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 *Turning arguments into understanding, one conversation at a time* ✨
 
-[![Star this repo](https://img.shields.io/github/stars/yourusername/ai-argument-resolver?style=social)](https://github.com/yourusername/ai-argument-resolver)
+[![Star this repo](https://img.shields.io/github/stars/yourusername/ai-argument-resolver?style=social)](https://github.com/Lohitha-Kalipindi/ai-powered-argument-resolver)
 
 </div>
