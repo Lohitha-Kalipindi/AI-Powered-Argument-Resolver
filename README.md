@@ -150,7 +150,6 @@ Have questions? Found a bug? Want to collaborate?
 - 📬 **Email:** [kalipindilohitha@gmail.com](mailto:kalipindilohitha@gmail.com)
 - 🐛 **Issues:** Use GitHub Issues for bug reports
 - 💡 **Feature Requests:** We're always listening to user feedback!
-- 📄 **Full Project Report:** Available on request (completely free)
 
 ---
 
