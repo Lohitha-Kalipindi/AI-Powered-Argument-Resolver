@@ -6,7 +6,7 @@
 
 *An innovative web application that analyzes arguments and provides empathetic, unbiased resolution strategies*
 
-[![Live Demo](https://img.shields.io/badge/🌐_Live_Demo-blue?style=for-the-badge)](your-demo-link)
+[![Live Demo](https://img.shields.io/badge/🌐_Live_Demo-blue?style=for-the-badge)](https://drive.google.com/file/d/1t92kd3tUV9hgE_J4tSQNjB1qwbiczWqq/view?usp=sharing)
 [![Download Report](https://img.shields.io/badge/📊_Project_Report-green?style=for-the-badge)](your-report-link)
 [![License](https://img.shields.io/badge/License-MIT-yellow?style=for-the-badge)](LICENSE)
 
