@@ -153,14 +153,6 @@ Have questions? Found a bug? Want to collaborate?
 
 ---
 
-## 🙏 Acknowledgments
-
-Special thanks to:
-- **Together AI** for providing powerful language model APIs
-- **Gradio** for making beautiful web interfaces simple
-- **The open-source community** for inspiration and support
-
----
 
 ## 📜 License
 
