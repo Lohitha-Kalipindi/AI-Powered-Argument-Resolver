@@ -76,7 +76,7 @@ Upload your chat files for detailed analysis
 
 ### Prerequisites
 - Python 3.9 or higher
-- A Together AI API key ([get one free here](https://together.ai))
+- An API key
 
 ### Installation
 
